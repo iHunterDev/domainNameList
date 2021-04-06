@@ -1,0 +1,2 @@
+# domainNameLIst
+米表
